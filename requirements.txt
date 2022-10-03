@@ -1,2 +1,4 @@
-Flask==2.2.2
+Flask
 gunicorn
+pymongo[srv]
+Flask-PyMongo
